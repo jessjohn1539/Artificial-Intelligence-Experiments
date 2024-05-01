@@ -1,0 +1,7 @@
+1.  One case study on AI applications published in IEEE/ACM/Springer or any prominent
+    journal
+2.  State space formulation and PEAS properties for the case study on AI applications published.
+3.  Implement the A* Algorithm to find the shortest path from source to destination.
+4.  Implement the Iterative Deepening Algorithm.
+5.  Implement the Genetic Algorithm for 8 queens problem.
+6.  Implement the 2 player game using MINMAX algorithm.
